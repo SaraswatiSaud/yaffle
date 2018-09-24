@@ -1,6 +1,7 @@
 require "yaffle/railtie"
-require "yaffle/core_ext"
-require "yaffle/acts_as_yaffle"
+require "yaffle/upper_case"
+require "yaffle/date_converter"
+require "yaffle/days_left"
 
 module Yaffle
 	# Your code goes here...
